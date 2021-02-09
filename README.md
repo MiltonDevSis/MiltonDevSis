@@ -2,4 +2,11 @@
 
 <img src="https://github.com/MiltonDevSis/MiltonDevSis/blob/master/Painel.png">
 
+## Detailed information
+
+* **Name**: Milton Pimentel Filho
+* **Age**: 31
+* **Living in**: Cocal Do Sul, SC, Brazil
+* **Stack**: Kotlin - Java - JetPack - Android
+
 

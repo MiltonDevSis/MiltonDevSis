@@ -9,4 +9,6 @@
 * **Living in**: Cocal Do Sul, SC, Brazil
 * **Stack**: Kotlin - Java - JetPack - Android
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiltonDevSis)](https://github.com/anuraghazra/github-readme-stats)
+
 

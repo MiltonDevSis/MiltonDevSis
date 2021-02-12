@@ -8,7 +8,7 @@
 * **Age**: 31
 * **Living in**: Cocal Do Sul, SC, Brazil
 * **Stack**: Kotlin - Java - JetPack - Android
-90
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 

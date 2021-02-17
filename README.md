@@ -7,7 +7,7 @@
 * **Name**: Milton Pimentel Filho
 * **Age**: 31
 * **Living in**: Cocal Do Sul, SC, Brazil
-* **Stack**: Kotlin - Java - JetPack - Android
+* **Stack/Interest**: <s>Kotlin - Java - JetPack - Android</s> - Technology
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)
 

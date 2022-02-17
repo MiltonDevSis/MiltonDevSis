@@ -9,6 +9,8 @@
 * **Living in**: Cocal Do Sul, SC, Brazil
 * **Stack/Interest**: <s>Kotlin - Java - Android - JetPack</s> - Technology
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)
+<img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)-->
 
 

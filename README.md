@@ -37,11 +37,12 @@
             width="40" height="40"/> </a>
     <!--Firebase-->
     <a href="https://firebase.google.com" target="_blank"> <img
-            src="https://www.gstatic.com/devrel-devsite/prod/v70c9aa38be5a41f2acdfd6deb7424dc7b523d8a488274535f707585ca8d2cdd3/firebase/images/lockup.svg" alt="firebase"
-            width="100" height="40"/> </a>
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"
+            width="40" height="40"/> </a>
 
 <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/>
 
+<!--topico de linguagens usadas nos repositorios-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)-->
 
 

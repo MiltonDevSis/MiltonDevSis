@@ -40,7 +40,7 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"
             width="40" height="40"/> </a>
 
-<img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/>
+<!-- gif snake <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/> -->
 
 <!--topico de linguagens usadas nos repositorios-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)-->

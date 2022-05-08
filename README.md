@@ -27,6 +27,10 @@
     <a href="https://developer.android.com/studio" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" alt="androidstudio"
             width="40" height="40"/> </a>
+    <!--JetpackAndroid-->
+    <a href="https://developer.android.com/jetpack" target="_blank"> <img
+            src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="JetpackAndroid"
+            width="40" height="40"/> </a>
     <!--Stackoverflow-->
     <a href="https://stackoverflow.com" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow"

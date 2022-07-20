@@ -43,6 +43,10 @@
     <a href="https://firebase.google.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"
             width="40" height="40"/> </a>
+    <!--Azure-->
+    <a href="https://azure.microsoft.com/pt-br/services/devops/" target="_blank"> <img
+            src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png" alt="Azure DevOps"
+            width="40" height="40"/> </a>        
 
 <!-- gif snake <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/> -->
 

@@ -48,7 +48,7 @@
             src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png" alt="Azure DevOps"
             width="40" height="40"/> </a>        
 
-gif snake <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/>
+<!-- gif snake <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg"/> -->
 
 <!--topico de linguagens usadas nos repositorios-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDevSis&layout=compact&theme=radical)-->

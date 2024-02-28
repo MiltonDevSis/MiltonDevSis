@@ -5,7 +5,7 @@
 ## Detailed information
 
 * **Name**: Milton Pimentel Filho
-* **Age**: 32
+* **Age**: 34
 * **Living in**: Cocal Do Sul, SC, Brazil
 * **Stack/Interest**: <s>Kotlin - Java - Android - JetPack</s> - Technology
 
